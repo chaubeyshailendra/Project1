@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 123
 afd
 afdadsf
@@ -47,3 +48,8 @@ afd
 afdadsf
 adfadsf
 
+=======
+kjkj
+jkjkj
+kj;kj
+>>>>>>> b1
